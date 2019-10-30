@@ -41,13 +41,13 @@ Gutter: 1em <br>
 
 #### Images
 
-[Relaxr Logo White](relaxr-images/relaxr-logo-white.svg)
+[Relaxr Logo White](relaxr-logo-white.svg)
 
-[Relaxr Logo Yellow](relaxr-images/relaxr-logo-yellow.svg)
+[Relaxr Logo Yellow](relaxr-logo-yellow.svg)
 
-[Blog Photo 1](https://raw.githubusercontent.com/jmeade11/FEWD/master/Class4/homework/relaxr-images/blog_photo1.jpg)
+[Blog Photo 1](blog_photo1.jpg)
 
-[Blog Photo 2](https://raw.githubusercontent.com/jmeade11/FEWD/master/Class4/homework/relaxr-images/blog_photo2.jpg)
+[Blog Photo 2](blog_photo2.jpg)
 
 [Facebook Icon](relaxr-images/facebook.svg)
 
