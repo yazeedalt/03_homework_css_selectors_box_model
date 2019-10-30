@@ -49,9 +49,9 @@ Gutter: 1em <br>
 
 [Blog Photo 2](blog_photo2.jpg)
 
-[Facebook Icon](relaxr-images/facebook.svg)
+[Facebook Icon](relaxr-images/facebook.png)
 
-[Twitter Icon](relaxr-images/twitter.svg)
+[Twitter Icon](relaxr-images/twitter.png)
 
 
 #### Styles
