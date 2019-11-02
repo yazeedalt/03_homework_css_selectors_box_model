@@ -1,0 +1,200 @@
+body {
+    margin: 0;
+    background-color: #f0efef;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.nav {
+    background-color: #033048;
+    display: flex;
+    justify-content: space-around;
+    height: 100px;
+}
+
+.logoimg {
+    width: 200px;
+}
+
+.about {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.faq {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.team {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.contactus {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.blog {
+    text-decoration: none;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif;
+    padding: 40px;
+    font-size: 1em;
+    font-weight: 800;
+    text-transform: capitalize;
+}
+
+.midmain {
+    background-color: #f0efef;
+    padding: 20px;
+    display: block;
+}
+
+.main {
+    width: 700px;
+    float: left;
+    font-size: 24px;
+    font-weight: 300;
+    color: darkblue;
+    margin-left: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.L {
+    font-size: 60px;
+    float: left;
+    font-weight: 1000;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.sidebar {
+    float: right;
+    width: 240px;
+    margin-right: 30px;
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.a1 {
+    text-decoration: none;
+    float: right;
+    text-transform: capitalize;
+    color: darkblue;
+    font-weight: bold;
+    /* border: solid;
+    padding-left: 500px;
+    padding-bottom: 20px;
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none; */
+}
+
+.a2 {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.main2 {
+    width: 700px;
+    float: left;
+    font-size: 24px;
+    font-weight: 300;
+    color: darkblue;
+    margin-left: 30px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.a3 {
+    text-decoration: none;
+    float: right;
+    text-transform: capitalize;
+    color: darkblue;
+    font-weight: bold;
+}
+
+.ad {
+    float: right;
+    width: 240px;
+    margin-right: 30px;
+    font-size: 25px;
+    color: darkblue;
+    font-family: 'Open Sans', sans-serif;
+    text-transform: capitalize;
+    background-color: white;
+    padding-bottom: 30%;
+    text-align: center;
+}
+
+.footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: yellow;
+    color: white;
+    text-align: center;
+    margin-bottom: -1500px;
+}
+
+.btn {
+    background-color: darkblue;
+    font-size: 24px;
+    padding: 14px 40px;
+    border-radius: 8px;
+    width: 250px;
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    color: white;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.footer2 {
+    background-color: black;
+    padding: 20px 10px;
+}
+
+h3 {
+    color: yellow;
+    font-size: 36px;
+    font-weight: 800;
+}
+
+.social>li {
+    display: inline;
+    margin: auto;
+    padding: 5px 10px;
+}
